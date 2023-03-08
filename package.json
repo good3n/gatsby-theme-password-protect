@@ -1,17 +1,9 @@
 {
-  "name": "@mkitio/gatsby-theme-password-protect",
-  "version": "2.1.2",
-  "description": "A Gatsby theme for protecting apps and pages with password",
+  "name": "@good3n/gatsby-theme-password-protect-fork",
+  "version": "1.0.0",
+  "description": "Do NOT use this.",
   "keywords": [
-    "gatsby",
-    "gatsby-plugin",
-    "gatsby-theme",
-    "gatsby-theme-password-protect",
-    "mkit",
-    "mkit-theme",
-    "mkit-theme-password-protect",
-    "password",
-    "protect"
+    "gatsby"
   ],
   "main": "index.js",
   "scripts": {
@@ -54,15 +46,6 @@
     "lint-staged": "^9.4.2",
     "prettier": "^1.18.2",
     "release-it": "^12.4.3"
-  },
-  "author": "MK IT Ltd. <hi@mkit.io>",
-  "homepage": "https://gitlab.com/mkit/open-source/gatsby-theme-password-protect#readme",
-  "repository": {
-    "type": "git",
-    "url": "git+https://gitlab.com/mkit/open-source/gatsby-theme-password-protect.git"
-  },
-  "bugs": {
-    "url": "https://gitlab.com/mkit/open-source/gatsby-theme-password-protect/issues"
   },
   "publishConfig": {
     "access": "public"
